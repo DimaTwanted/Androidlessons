@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">onclickbuttons</string>
+    <string name="btnOk">Button</string>
+    <string name="btnCancel">Button</string>
+</resources>
